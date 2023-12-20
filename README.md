@@ -7,6 +7,6 @@ This project focuses on the thorough cleaning and preprocessing of  data using M
 
 ## Using Microsoft Excel to tranform data
 The data contained empty cells,and unknown characters and wrong data types. Excel is the tool used to transform the data.
-###![Snipped Excel](https://github.com/Xtomiwa/Data-cleaning-projects/assets/112486285/f4ea84bb-2036-47e8-8946-51caf40e0691)
+![Snipped Excel](https://github.com/Xtomiwa/Data-cleaning-projects/assets/112486285/f4ea84bb-2036-47e8-8946-51caf40e0691)
 
 
