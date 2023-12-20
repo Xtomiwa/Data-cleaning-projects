@@ -8,5 +8,4 @@ This project focuses on the thorough cleaning and preprocessing of  data using M
 ## Using Microsoft Excel to tranform data
 The data contained empty cells,and unknown characters and wrong data types. Excel is the tool used to transform the data.
 
-###![Uploading Snipped Excel.PNG…]()
 
